@@ -1,2 +1,15 @@
 # azure-function-templates-w24
-Azure Functions templates for common serverless patterns
+
+> Last updated: 2026-06-09
+
+## About
+
+This repository is actively maintained and updated regularly.
+
+## Getting Started
+
+Clone the repo and follow the setup instructions.
+
+## Contributing
+
+Contributions welcome! Please read CONTRIBUTING.md first.
