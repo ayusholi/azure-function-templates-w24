@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-10T13:00:01.570Z
+Last updated: 2026-06-13T13:00:01.631Z
 
-## Summary
+## Progress
 
-- update dependencies to latest versions
+- move constants to dedicated config file
