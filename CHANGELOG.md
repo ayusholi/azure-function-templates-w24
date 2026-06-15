@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement pagination for list endpoints
-- Build: 2026-06-13T13:00:01.631Z
+- implement error handling middleware
+- Updated: 2026-06-15T13:00:01.460Z
