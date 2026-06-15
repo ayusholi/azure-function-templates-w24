@@ -1,6 +1,6 @@
 # azure-function-templates-w24
 
-> Last updated: 2026-06-13
+> Last updated: 2026-06-15
 
 ## About
 
