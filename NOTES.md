@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-15T13:00:01.460Z
+Last updated: 2026-06-19T13:00:01.224Z
 
-## Summary
+## Progress
 
-- configure linting and code formatter
+- add setup and installation guide
