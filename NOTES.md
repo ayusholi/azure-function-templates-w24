@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-06-28T13:00:01.260Z
+Session: 2026-06-28T13:00:01.260Z
 
-## Progress
+## Summary
 
-- update dependencies to latest versions
+- extract helper functions to utils
